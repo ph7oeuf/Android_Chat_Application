@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="log_in_to_continue">Log in to continue</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_new_acc">create_new_acc</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in</string>
+    <string name="select_user">Select User</string>
+    <string name="type_your_message_here">Type your message here.</string>
+</resources>
